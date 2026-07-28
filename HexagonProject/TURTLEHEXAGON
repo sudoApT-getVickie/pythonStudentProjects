@@ -1,0 +1,8 @@
+import turtle
+
+
+dot_hex = turtle.Turtle()
+for (count) in range(6):
+  (dot_hex).forward(50)
+  (dot_hex).left(60)
+  ((dot_hex).dot(1))
